@@ -1,5 +1,5 @@
 # 52pojie auto clock
-#本代码/项目出处采自https://github.com/xigua0123/52pojie，如侵犯，请私删
+#本代码/项目出处采自https://github.com/xigua0123/52pojie  如侵犯，请私删
 ## 今日签到状态
 ![52Pojie Auto Sign](https://github.com/RoadIsLong/52pojie_Sign/workflows/52Pojie%20Auto%20Sign/badge.svg)
 
